@@ -1,7 +1,7 @@
 # Anna (Aneta) Alekseeva
 
 ## Programming Projects
-### Pet projects
+### Pet Projects
 - [Polytopes](https://aneta-a.github.io/polytopes) Interactive visualisation of 4-dimentional polytopes 
 - [Polyhedra Lampshades](https://aneta-a.github.io/ppp) Software to generate previews and templates for polypropylene polyhedra
 - [Simulitis-2](https://aneta-a.github.io/simulitis2?locale=en) A simple model of spreading invectional disease 
@@ -15,7 +15,7 @@ Some works from early 2000th:
 - [Molecules Oscillations](http://anna-alekseeva.com/portfolio_en/molecules.html)
 
 
-## Art projects
+## Art Projects
 ### Origami
 - [Photos of my works on Flickr](https://www.flickr.com/photos/aneta_a/)
 - [My origami instagram](https://www.instagram.com/anetaorigami/)
