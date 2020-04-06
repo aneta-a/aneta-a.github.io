@@ -26,7 +26,7 @@ Some works from early 2000th:
 - [Blog](https://aneta.livejournal.com/)
 
 ## Social Projects
-- [Hamelnkinder](https://hamelnkinder.livejournal.com/) Russion family festival in Germany (I'm in organisation team)
+- [Hamelnkinder](https://hamelnkinder.livejournal.com/) Russian family festival in Germany (I'm in organisation team)
 
 
 [My profile on Upwork](https://www.upwork.com/o/profiles/users/~0187821cdd22e8ec1e/)
