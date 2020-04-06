@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Anna (Aneta) Alekseeva
 
-You can use the [editor on GitHub](https://github.com/aneta-a/aneta-a.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Programming Projects
+### Pet projects
+- [Polytopes](https://aneta-a.github.io/polytopes) Interactive visualisation of 4-dimentional polytopes 
+- [Polyhedra Lampshades](https://aneta-a.github.io/ppp) Software to generate previews and templates for polypropylene polyhedra
+- [Simulitis-2](https://aneta-a.github.io/simulitis2?locale=en) A simple model of spreading invectional disease 
+### Past Works
+- [Interactive Riemann Sphere](http://anna-alekseeva.com/simulations/riemannsphere/) Visualisation of rational functions on the Riemann sphere (for those, who understand, what it means)
+- [One-Dimensional Schrödinger Equation](http://anna-alekseeva.com/simulations/OneDimSchroedinger.html) Graphical simulation for university students
+Some works from early 2000th:
+- [Astronomy](http://anna-alekseeva.com/portfolio_en/astronomy.html)
+- [Thermodynamics](http://anna-alekseeva.com/portfolio_en/thermodynamics.html)
+- [The Morse Potentioal (quantum mechanics)](http://anna-alekseeva.com/portfolio_en/quchem83.html)
+- [Molecules Oscillations](http://anna-alekseeva.com/portfolio_en/molecules.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Art projects
+### Origami
+- [Photos of my works on Flickr](https://www.flickr.com/photos/aneta_a/)
+- [My origami instagram](https://www.instagram.com/anetaorigami/)
+- [Facebook page](https://www.facebook.com/aneta.origami/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Texts in Russian
+- [Poetry](https://www.facebook.com/aneta.origami/)
+- [Blog](https://aneta.livejournal.com/)
 
-```markdown
-Syntax highlighted code block
+## Social Projects
+- [Hamelnkinder](https://hamelnkinder.livejournal.com/) Russion family festival in Germany (I'm in organisation team)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[My profile on Upwork](https://www.upwork.com/o/profiles/users/~0187821cdd22e8ec1e/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aneta-a/aneta-a.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My e-mail: ![](a.png)
