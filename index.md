@@ -6,24 +6,12 @@
 - [Polyhedra Lampshades](https://aneta-a.github.io/ppp/?showSideMenu=true&showList=true) Software to generate previews and templates for polypropylene polyhedra
 - [Polytopes](https://aneta-a.github.io/polytopes) Interactive visualisation of 4-dimentional polytopes 
 - [Simulitis-2](https://aneta-a.github.io/simulitis2?locale=en) A simple model of spreading invectional disease (it was made in 2020, to demonstrate what does "flatten the curve" mean)
-<!-- ### Past Works
-- [Interactive Riemann Sphere](http://anna-alekseeva.com/simulations/riemannsphere/) Visualisation of rational functions on the Riemann sphere (for those, who understand, what it means)
-- [One-Dimensional Schrödinger Equation](http://anna-alekseeva.com/simulations/OneDimSchroedinger.html) Graphical simulation for university students
-Some works from early 2000th:
-- [Astronomy](http://anna-alekseeva.com/portfolio_en/astronomy.html)
-- [Thermodynamics](http://anna-alekseeva.com/portfolio_en/thermodynamics.html)
-- [The Morse Potentioal (quantum mechanics)](http://anna-alekseeva.com/portfolio_en/quchem83.html)
-- [Molecules Oscillations](http://anna-alekseeva.com/portfolio_en/molecules.html) -->
-
 
 ## Art Projects
 ### Math-art and Origami
 - [Photos of my works on Flickr](https://www.flickr.com/photos/aneta_a/)
 - [My origami instagram](https://www.instagram.com/anetaorigami/)
-<!-- [Facebook page](https://www.facebook.com/aneta.origami/)-->
-
 ### Texts in Russian
-<!-- [Poetry](https://www.facebook.com/aneta.origami/)-->
 - [Blog](https://aneta.livejournal.com/) My life in Livejournal (an archive, not active anymore)
 ### Other
 - [Aneta.tech.aesthetics](https://www.instagram.com/aneta.tech.aesthetics/) My instagram account, devoted to photos of trams, trains, planes, and other (civil) tech. Because it's beautiful
