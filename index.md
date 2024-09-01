@@ -1,6 +1,7 @@
 # Anna (Aneta) Alekseeva
 
 ## Programming Projects
+
 ### Pet Projects
 - [Woven Balls](https://aneta-a.github.io/WovenBalls/)
 - [Polyhedra Lampshades](https://aneta-a.github.io/ppp/?showSideMenu=true&showList=true) Software to generate previews and templates for polypropylene polyhedra
@@ -10,7 +11,7 @@
 ## Art Projects
 ### Math-art and Origami
 - [Photos of my works on Flickr](https://www.flickr.com/photos/aneta_a/)
-- [My origami instagram](https://www.instagram.com/anetaorigami/)
+- [My art instagram](https://www.instagram.com/anetaorigami/) Mostly origami, but not only
 ### Texts in Russian
 - [Blog](https://aneta.livejournal.com/) My life in Livejournal (an archive, not active anymore)
 ### Other
@@ -21,7 +22,7 @@
 
 ## Social networks
 ### Personal
-- [Facebook](https://www.facebook.com/Aneta.Slova)
+- [Facebook](https://www.facebook.com/Aneta.Slova) Mostly in Russian
 ### Professional
 - [LinkedIn](https://www.linkedin.com/in/anna-alekseeva-6867712b7/)
 - [XING](https://www.xing.com/profile/Anna_Alekseeva052751)       
